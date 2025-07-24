@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Hi 👋, I'm Riya Rane</h3>
+<h1 align="center">Hi 👋, I'm Riya Rane</h1>
 
 ###
 
@@ -14,22 +14,22 @@
 
 ###
 
-<h4 align="left">🔭 Exploring AI and ML</h4>
+<p align="left">🔭 Exploring <b>AI and ML</b></p>
 
 ###
 
-<h4 align="left">🤝 I’m looking to collaborate on Full Stack Django Projects</h4>
+<p align="left">🤝 I’m looking to collaborate on <b>Full Stack Django Projects</b></p>
 
 ###
 
-<h4 align="left">🛠️ I’m currently working on AI/ML Projects</h4>
+<p align="left">🛠️ I’m currently working on <b>AI/ML Projects</b></p>
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
